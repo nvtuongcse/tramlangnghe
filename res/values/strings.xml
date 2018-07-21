@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trạm Lắng Nghe</string>
+    
+    <string name="record_3">Không thể mở camera</string>
+	<string name="record_4">Đang xử lý video. Vui lòng chờ</string>
+	<string name="record_5">Xử lý video hoàn tất</string>
+	
+</resources>
