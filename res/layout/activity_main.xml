@@ -14,7 +14,7 @@
         android:layout_marginRight="-300dp"
         android:layout_marginLeft="-300dp" >
 
-        <VideoView
+        <TextureView
             android:id="@+id/videoView"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
